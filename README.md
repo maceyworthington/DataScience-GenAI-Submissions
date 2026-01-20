@@ -2,7 +2,7 @@
 This repository contains all assignment notebooks, data analysis, and code developed for the Data Science & Generative AI module.
 
 **Table of Contents:**
-1. [Data and Feature Engineering (Week 2)]([https://github.com/maceyworthington/DataScience-GenAI-Submissions/blob/main/Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb](https://github.com/maceyworthington/DataScience-GenAI-Submissions/tree/main/Data_Cleaning_%26_Feature_Engineering_(W2)_))
+1. [Data Cleaning and Feature Engineering (Week 2)]([https://github.com/maceyworthington/DataScience-GenAI-Submissions/tree/main/Data_Cleaning_%26_Feature_Engineering_(W2)_)
 2. [Exploratory Data Analysis (Week 3)](https://github.com/maceyworthington/DataScience-GenAI-Submissions/tree/main/Exploratory_Data_Analysis_(W3))
 3. [Machine Learning Methodology & Decision Trees (Week 4)](https://github.com/maceyworthington/DataScience-GenAI-Submissions/tree/main/ML_and_Decision_Trees_(W4))
 4. [Ensemble Models (Week 5)](https://github.com/maceyworthington/DataScience-GenAI-Submissions/tree/main/Ensemble_Models_(W5))
